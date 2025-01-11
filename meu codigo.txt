@@ -5,3 +5,4 @@ terceira alteração
 =======
 olá eu sou uma nova linha
 >>>>>>> 6eb2522eac2d9591fe0b2d0bf060913b3de4aee7
+>>>>>>> 6eb252ac26091fe0d95b2d0bf0de4aee72e913b3
